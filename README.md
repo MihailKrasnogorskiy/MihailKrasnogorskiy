@@ -1,16 +1,22 @@
-### Hi there 👋
+### Привет, меня зовут Красногорский Михаил.
+Я Java разработчик из Вологды.
 
-<!--
-**MihailKrasnogorskiy/MihailKrasnogorskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Вот мои проекты:
 
-Here are some ideas to get you started:
+- ExploreWithMe - бекенд приложения для публикации информации об интересных событиях и поиска компании для участия в них. Микросервисная архитектура.
+Стек: SpringBoot, PostgreSQL, HibernateOrm, CriteriaApi, Junit, MocMvc, Swagger
+https://github.com/MihailKrasnogorskiy/java-explore-with-me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ShareIt - бекенд сервиса бронирования вещей, микросервисная архитектура
+Стек: SpringBoot, PostgreSQL, HibernateOrm, Junit, MocMvc
+https://github.com/MihailKrasnogorskiy/java-shareit
+
+- Filmorate - бекенд сервиса для подборки и оценки фильмов. Часть проекта разрабатывалась в команде из 5 человек. Получены навыки совместной работы, один из них - навык решения конфликтов в коде разных авторов.
+Стек: SpringBoot, JDBC, H2, Junit, MocMvc
+https://github.com/MihailKrasnogorskiy/java-filmorate
+
+- TaskManager - backend менеджера задач, реализовано несколько вариантов хранения состояния и WEB API, стандартными средствами Java 11.
+https://github.com/MihailKrasnogorskiy/java-sprint2-hw
+
+- А это мой самый первый проект. И пускай это консольный морской бой - зато он мне показал, что я могу сам с нуля сделать достаточно большую задачу)
+https://github.com/MihailKrasnogorskiy/sea-battle
