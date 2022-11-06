@@ -4,15 +4,15 @@
 Вот мои проекты:
 
 - ExploreWithMe - бекенд приложения для публикации информации об интересных событиях и поиска компании для участия в них. Микросервисная архитектура.
-Стек: SpringBoot, PostgreSQL, HibernateOrm, CriteriaApi, Junit, MocMvc, Swagger
+Стек: SpringBoot, PostgreSQL, HibernateOrm, CriteriaApi, Junit, MockMvc, Swagger
 https://github.com/MihailKrasnogorskiy/java-explore-with-me
 
 - ShareIt - бекенд сервиса бронирования вещей, микросервисная архитектура
-Стек: SpringBoot, PostgreSQL, HibernateOrm, Junit, MocMvc
+Стек: SpringBoot, PostgreSQL, HibernateOrm, Junit, MockMvc
 https://github.com/MihailKrasnogorskiy/java-shareit
 
 - Filmorate - бекенд сервиса для подборки и оценки фильмов. Часть проекта разрабатывалась в команде из 5 человек. Получены навыки совместной работы, один из них - навык решения конфликтов в коде разных авторов.
-Стек: SpringBoot, JDBC, H2, Junit, MocMvc
+Стек: SpringBoot, JDBC, H2, Junit, MockMvc
 https://github.com/MihailKrasnogorskiy/java-filmorate
 
 - TaskManager - backend менеджера задач, реализовано несколько вариантов хранения состояния и WEB API, стандартными средствами Java 11.
